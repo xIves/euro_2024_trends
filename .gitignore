@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Visual Studio Code specific files
+.vscode/
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Compiled files
+*.dll
+*.exe
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+build/
+dist/
+
+# Environment variables
+.env
+
+# Jupyter kernelspec files
+.jupyter/
+
+# Single files
+# solution_challenge_week_01.ipynb
+# solution_challenge_week_02.ipynb
+# graphics.R
+# rstudio-export.zip
+# solution_challenge_week_04.ipynb
+# solution_challenge_week_05.ipynb
+# solution_challenge_week_06.ipynb
+# solution_challenge_week_07.ipynb
+# solution_challenge_week_08.ipynb
+# solution_challenge_week_09.ipynb
+solution_challenge_week_10.ipynb
+# water_level_data.py
+# hydro_data.csv
+# water_level_data.py
+# hydro_data.csv
+# index.html
+# app.py
+
+# Single folders
+# Week_01/
+# Week_02/
+# Week_03/
+# Week_04/
+# Week_05/
+# Week_06/
+# Week_07/
+# Week_08/
+# Week_09/
+# Week_10/
+# Week_11/
+# Week_12/
+# Week_13/
+# Week_14/

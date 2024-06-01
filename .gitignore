@@ -68,3 +68,6 @@ solution_challenge_week_10.ipynb
 # Week_12/
 # Week_13/
 # Week_14/
+*.db
+credentials.json
+venv/

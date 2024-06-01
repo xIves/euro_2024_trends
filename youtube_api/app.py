@@ -1,10 +1,12 @@
 import sqlite3  # Standardbibliothek, sollte immer zuerst importiert werden
 import pandas as pd
 from flask import Flask, request, render_template, jsonify
-import io
+import os
 
 app = Flask(__name__)
-DB_PATH = ('data/euro_2024_videos.db')
+
+dirname = os.path.dirname(__file__)
+DB_PATH = os.path.join(dirname, 'data/euro_2024_videos.db')
 
 
 @app.route('/')
